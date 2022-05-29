@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="login">
-	用户名：<input id="username" name="username" type="text"></input><br>
-	密码：<input id="username" name="password" type="password"></input><br>
+	jack：<input id="username" name="username" type="text"></input><br>
+	pass：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
